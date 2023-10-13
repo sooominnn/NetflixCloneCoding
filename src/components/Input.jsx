@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Input = () => {
+const CustomInput = () => {
   return <div>Input</div>;
 };
 
-export default Input;
+export default CustomInput;
